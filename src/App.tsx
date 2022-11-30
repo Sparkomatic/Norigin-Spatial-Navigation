@@ -18,6 +18,10 @@ import {
   KeyPressDetails
 } from './index';
 
+import CTVTileStandard from "https://framer.com/m/CTV-Tile-Standard-UUJT.js@cEiU0WQLESbkApBwlQiw";
+
+
+
 const logo = require('../logo.png').default;
 
 init({
